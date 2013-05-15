@@ -42,6 +42,7 @@ my change 10
 my change 11
 my change 11
 my change 11
+<<<<<<< HEAD
 my change 11
 my change 11
 my change 11
@@ -51,3 +52,5 @@ my change 11
 my change 12
 my change 12
 my change 13
+=======
+>>>>>>> parent of c6e6b92... 11
